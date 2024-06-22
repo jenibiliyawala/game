@@ -21,7 +21,7 @@ window.onload = function() {
 	if(currentHours >= 0 && currentHours <= 12){
 		yesButton.href = "https://wa.me/919374413322?text=Hello Jeni,%0AGood morning.%0A%0ALet's play BGMI.";
 	}
-	else if(currentHours > 12 && currentHours <=16){
+	else if(currentHours > 12 && currentHours <= 16){
 		yesButton.href = "https://wa.me/919374413322?text=Hello Jeni,%0AGood afternoon.%0A%0ALet's play BGMI.";
 	}
 	else{
