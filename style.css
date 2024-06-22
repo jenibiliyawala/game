@@ -2,7 +2,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: url('bg.jpg') center / cover no-repeat fixed;
+	background: url('bg.JPG') center / cover no-repeat fixed;
 	font: 1em/1.618 Inter, sans-serif;
 }
 
